@@ -1,0 +1,8 @@
+h1. PHP Security Pitfalls souce code
+
+This repository contains the source code for the Tutsplus course PHP Security Pitfalls. 
+It is meant for demonstration purposes and reference only. As such, it contains incomplete and vulnerable code.
+
+*Do not use this code in a production environment!*
+
+Cheers, Joost van Veen
